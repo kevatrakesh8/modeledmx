@@ -1,0 +1,5 @@
+Export file from asp.net mvc project to Sql Server 
+
+1. Go to the CustomerModeledmx [Diagram] > Right Click > Generate Database from Model  > 
+2. Copy the query from DDL and past at sql server "new Query".    
+3. Create database first and past the hole Queries.
